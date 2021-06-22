@@ -1,1 +1,20 @@
+Variables in the Tidy Dataset 
+
+1. subject - The unique ID of each subject which was obtained by reading in the subject_test and subject_train text files 
+
+2. activity - Activity performed by each subject which was obtained by reading the y_test and y_train files and recoded as follows by referencing the activity_labels text file: 
+    
+    1- WALKING
+    2- WALKING_UPSTAIRS
+    3- WALKING_DOWNSTAIRS
+    4- SITTING
+    5- STANDING
+    6- LAYING
+    
+3. Columns 3:68 consist of the measurements on the mean and standard deviation of each measurement. These were obtained by 
+    a. Reading in the subject_test and subject_train text files 
+    b. Creating a combined dataset 'complete_humanactivity_dataset'
+    c. Extracting measurements for mean and standard deviations and storing them in the 'Mean_std_complete_humanactivity_dataset'
+
+The final 'tidy dataset' was created by combining all these columns together and averaging each variable for each activity and each subject.
 
