@@ -13,41 +13,8 @@ Variables in the Tidy Dataset
     5- STANDING
     6- LAYING
     
-3. Columns 3:68 in the Tidy Dataset consisting of the measurements on the mean and standard deviation of each measurement were extracted from the 'complete_humanactivity_dataset' and assigned descriptive variable names as follows:  
+3. Columns 3:68 in the Tidy Dataset consisting of the measurements on the mean and standard deviation of each measurement were extracted from the 'complete_humanactivity_dataset' and assigned descriptive variable names.  
 
-   "TimeBodyAcceleratorMeanX"                      "TimeBodyAcceleratorMeanY"                     
-   "TimeBodyAcceleratorMeanZ"                      "TimeBodyAcceleratorStdX"                      
-   "TimeBodyAcceleratorStdY"                       "TimeBodyAcceleratorStdZ"                      
-   "TimeGravityAcceleratorMeanX"                   "TimeGravityAcceleratorMeanY"                  
-   "TimeGravityAcceleratorMeanZ"                   "TimeGravityAcceleratorStdX"                   
-   "TimeGravityAcceleratorStdY"                    "TimeGravityAcceleratorStdZ"                   
-   "TimeBodyAcceleratorJerkMeanX"                  "TimeBodyAcceleratorJerkMeanY"                 
-   "TimeBodyAcceleratorJerkMeanZ"                  "TimeBodyAcceleratorJerkStdX"                  
-   "TimeBodyAcceleratorJerkStdY"                   "TimeBodyAcceleratorJerkStdZ"                  
-   "TimeBodyGyroscopeMeanX"                        "TimeBodyGyroscopeMeanY"                       
-   "TimeBodyGyroscopeMeanZ"                        "TimeBodyGyroscopeStdX"                        
-   "TimeBodyGyroscopeStdY"                         "TimeBodyGyroscopeStdZ"                        
-   "TimeBodyGyroscopeJerkMeanX"                    "TimeBodyGyroscopeJerkMeanY"                   
-   "TimeBodyGyroscopeJerkMeanZ"                    "TimeBodyGyroscopeJerkStdX"                    
-   "TimeBodyGyroscopeJerkStdY"                     "TimeBodyGyroscopeJerkStdZ"                    
-   "TimeBodyAcceleratorMagnitudeMean"              "TimeBodyAcceleratorMagnitudeStd"              
-   "TimeGravityAcceleratorMagnitudeMean"           "TimeGravityAcceleratorMagnitudeStd"           
-   "TimeBodyAcceleratorJerkMagnitudeMean"          "TimeBodyAcceleratorJerkMagnitudeStd"          
-   "TimeBodyGyroscopeMagnitudeMean"                "TimeBodyGyroscopeMagnitudeStd"                
-   "TimeBodyGyroscopeJerkMagnitudeMean"            "TimeBodyGyroscopeJerkMagnitudeStd"            
-   "FrequencyBodyAcceleratorMeanX"                 "FrequencyBodyAcceleratorMeanY"                
-   "FrequencyBodyAcceleratorMeanZ"                 "FrequencyBodyAcceleratorStdX"                 
-   "FrequencyBodyAcceleratorStdY"                  "FrequencyBodyAcceleratorStdZ"                 
-   "FrequencyBodyAcceleratorJerkMeanX"             "FrequencyBodyAcceleratorJerkMeanY"            
-   "FrequencyBodyAcceleratorJerkMeanZ"             "FrequencyBodyAcceleratorJerkStdX"             
-   "FrequencyBodyAcceleratorJerkStdY"              "FrequencyBodyAcceleratorJerkStdZ"             
-   "FrequencyBodyGyroscopeMeanX"                   "FrequencyBodyGyroscopeMeanY"                  
-   "FrequencyBodyGyroscopeMeanZ"                   "FrequencyBodyGyroscopeStdX"                   
-   "FrequencyBodyGyroscopeStdY"                    "FrequencyBodyGyroscopeStdZ"                   
-   "FrequencyBodyAcceleratorMagnitudeMean"         "FrequencyBodyAcceleratorMagnitudeStd"         
-   "FrequencyBodyBodyAcceleratorJerkMagnitudeMean" "FrequencyBodyBodyAcceleratorJerkMagnitudeStd" 
-   "FrequencyBodyBodyGyroscopeMagnitudeMean"       "FrequencyBodyBodyGyroscopeMagnitudeStd"       
-   "FrequencyBodyBodyGyroscopeJerkMagnitudeMean"   "FrequencyBodyBodyGyroscopeJerkMagnitudeStd"   
 
 
 
