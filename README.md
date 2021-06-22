@@ -2,7 +2,7 @@
 
 1. The code (run_analysis.R) merges the training and the test sets to create one data set called 'complete_humanactivity_dataset'
 
-2. The code uses decriptive activity names (Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing, Laying) to label activities in the 'activity' column in the 'complete_humanactivity_dataset'
+2. The code uses decriptive activity names (Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing, Laying) to label activities in the 'activity' column      in the 'complete_humanactivity_dataset'
 
 3. The code extracts the measurements on the mean and standard deviation for each measurement and creates another dataset called 'final_humanactivity_dataset'
 
